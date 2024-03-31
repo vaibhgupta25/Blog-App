@@ -1,0 +1,3 @@
+in comment.js we are taking 
+const repliedcommentid = parentId?parentId:comment_id;
+repliedcommentid should only depend on the comment_id why i am considering parentId;
